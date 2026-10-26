@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": 450,
+      "publishedYear": 2008,
+      "description": "A practical guide to writing clean, readable, and maintainable code.",
+      "coverImage": "https://placehold.co/300x400?text=Clean+Code",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "price": 350,
+      "publishedYear": 2018,
+      "description": "Learn how small habits can lead to remarkable improvements.",
+      "coverImage": "https://placehold.co/300x400?text=Atomic+Habits",
+      "rating": 4.9,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas and Andrew Hunt",
+      "genre": "Programming",
+      "price": 550,
+      "publishedYear": 1999,
+      "description": "Practical techniques for becoming a more effective software developer.",
+      "coverImage": "https://placehold.co/300x400?text=Pragmatic+Programmer",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "genre": "Finance",
+      "price": 300,
+      "publishedYear": 1997,
+      "description": "A book about financial education, assets, and money management.",
+      "coverImage": "https://placehold.co/300x400?text=Rich+Dad+Poor+Dad",
+      "rating": 4.5,
+      "inStock": false
+    },
+    {
+      "id": 5,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 280,
+      "publishedYear": 1988,
+      "description": "A young shepherd travels in search of his personal legend.",
+      "coverImage": "https://placehold.co/300x400?text=The+Alchemist",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "price": 400,
+      "publishedYear": 2016,
+      "description": "Discover strategies for focused work in a distracted world.",
+      "coverImage": "https://placehold.co/300x400?text=Deep+Work",
+      "rating": 4.6,
+      "inStock": true
+    }
+  ]
+}
